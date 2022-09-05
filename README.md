@@ -9,4 +9,4 @@ A small POC for integrating google map static API with Kotlin
 * Add the API Key in application.yml 
 
 ## Demo
-* ![Demo](https://github.com/Sayantanmukherjee6/UserStore/blob/main/UserAgeBasedPurchaseGuidedRule.png)
+* ![Demo](https://github.com/Sayantanmukherjee6/PlaceSnapshot/blob/main/Screenshot%202022-09-05%20at%209.40.31%20PM.png)
